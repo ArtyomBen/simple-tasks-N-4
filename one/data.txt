@@ -1,0 +1,12 @@
+//file-i chaps
+// echo "kb: " . filesize("./one/t1.txt");
+// //stexcum enq file
+// $fp = fopen ("./one/t1.txt", "w");
+// fwrite ($fp, "1");
+// fwrite ($fp, "231312");
+// fclose ($fp);
+// // kardal file
+// $filename = "./one/t1.txt";
+// $handle = fopen ($filename, "r");
+// $contents = fread ($handle, filesize ($filename));
+// fclose ($handle);
